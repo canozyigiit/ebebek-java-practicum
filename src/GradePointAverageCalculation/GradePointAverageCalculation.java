@@ -1,8 +1,8 @@
-package com.not.ortalamasi;
+package GradePointAverageCalculation;
 
 import java.util.Scanner;
 
-public class GradeAverageApplication {
+public class GradePointAverageCalculation {
 
     public static void main(String[] args) {
         final Scanner s = new Scanner(System.in);
