@@ -2,7 +2,7 @@ package GroceryCashier;
 
 import java.util.Scanner;
 
-public class GroceryCashier {
+public class GroceryStore {
 
     public static void main(String[] args) {
         final Scanner s = new Scanner(System.in);
