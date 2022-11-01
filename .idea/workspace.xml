@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aceb8344-9df5-4576-b8bd-d03a0aefb5b9" name="Changes" comment="">
+    <list default="true" id="aceb8344-9df5-4576-b8bd-d03a0aefb5b9" name="Changes" comment="PerfectNumber added">
+      <change afterPath="$PROJECT_DIR$/src/InvertedTriangle/InvertedTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GradePointAverageCalculation/GradePointAverageCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradePointAverageCalculation/GradePointAverageCalculation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +34,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="GradePointAverageCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GradePointAverageCalculation.GradePointAverageCalculation" />
+}</component>
+  <component name="RunManager" selected="Application.Diamond">
+    <configuration name="CalculatingPowersOfFourAndFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatingPowersOfFourAndFive.CalculatingPowersOfFourAndFive" />
       <module name="ebebek-java-practicum" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GradePointAverageCalculation.*" />
+          <option name="PATTERN" value="CalculatingPowersOfFourAndFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diamond.Diamond" />
+      <module name="ebebek-java-practicum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Diamond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitTotal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitTotal.DigitTotal" />
+      <module name="ebebek-java-practicum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DigitTotal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExponentialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExponentialNumber.ExponentialNumber" />
+      <module name="ebebek-java-practicum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExponentialNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Harmonic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Harmonic.Harmonic" />
+      <module name="ebebek-java-practicum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Harmonic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,7 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GradePointAverageCalculation" />
+        <item itemvalue="Application.Diamond" />
+        <item itemvalue="Application.Harmonic" />
+        <item itemvalue="Application.DigitTotal" />
+        <item itemvalue="Application.ExponentialNumber" />
+        <item itemvalue="Application.CalculatingPowersOfFourAndFive" />
       </list>
     </recent_temporary>
   </component>
@@ -74,8 +130,229 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667247704591</updated>
-      <workItem from="1667247708418" duration="698000" />
+      <workItem from="1667247708418" duration="3947000" />
+      <workItem from="1667281858177" duration="1041000" />
+      <workItem from="1667288866197" duration="4613000" />
+      <workItem from="1667329214465" duration="6056000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1667248697774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667248697774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kdv amount calculator added">
+      <created>1667248867162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667248867162</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finding the hypotenuse in a right triangle added">
+      <created>1667249682003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667249682003</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Taximeter calculation added">
+      <created>1667249944353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667249944353</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Calculating area and perimeter of circle added">
+      <created>1667250190014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667250190014</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Body mass index calculation added">
+      <created>1667250619079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667250619080</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Grocery cashier added">
+      <created>1667250811412</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667250811412</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rename">
+      <created>1667250908561</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667250908561</updated>
+    </task>
+    <task id="LOCAL-00009" summary="calculator added">
+      <created>1667288969950</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667288969950</updated>
+    </task>
+    <task id="LOCAL-00010" summary="user login added">
+      <created>1667289623328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667289623328</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pass the class homework added">
+      <created>1667289894352</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667289894352</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added the task of Suggesting Activities based on the temperature">
+      <created>1667290446854</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667290446854</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added program assignment that sorts the entered number from smallest to largest">
+      <created>1667291122182</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667291122182</updated>
+    </task>
+    <task id="LOCAL-00014" summary="horoscope finder program homework added">
+      <created>1667291547194</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667291547195</updated>
+    </task>
+    <task id="LOCAL-00015" summary="flight ticket price calculation homework added">
+      <created>1667291900689</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667291900690</updated>
+    </task>
+    <task id="LOCAL-00016" summary="chinese zodiac calculation homework added">
+      <created>1667292069199</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667292069200</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Leap year calculation homework added">
+      <created>1667292889985</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667292889985</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Find even or odd homework added">
+      <created>1667329531626</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667329531626</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Double and multiples of four homework added">
+      <created>1667330552493</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667330552494</updated>
+    </task>
+    <task id="LOCAL-00020" summary="CalculatingPowersOfFourAndFive added">
+      <created>1667330963551</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667330963551</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Combination added">
+      <created>1667331313175</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667331313175</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ExponentialNumber added">
+      <created>1667331613515</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667331613516</updated>
+    </task>
+    <task id="LOCAL-00023" summary="DigitTotal added">
+      <created>1667332110453</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667332110453</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Harmonic added">
+      <created>1667332324248</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667332324248</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Diamond added">
+      <created>1667332575077</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667332575078</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Atm homework added">
+      <created>1667332776357</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667332776357</updated>
+    </task>
+    <task id="LOCAL-00027" summary="EbobEkok homework added">
+      <created>1667333071996</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667333071996</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Palindrome number homework added">
+      <created>1667333904144</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667333904144</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Advanced calculator added">
+      <created>1667334150493</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667334150493</updated>
+    </task>
+    <task id="LOCAL-00030" summary="FindingMinAndMaxValue added">
+      <created>1667335401096</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1667335401097</updated>
+    </task>
+    <task id="LOCAL-00031" summary="PerfectNumber added">
+      <created>1667335568264</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1667335568264</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +368,33 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Grocery cashier added" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="calculator added" />
+    <MESSAGE value="user login added" />
+    <MESSAGE value="pass the class homework added" />
+    <MESSAGE value="Added the task of Suggesting Activities based on the temperature" />
+    <MESSAGE value="Added program assignment that sorts the entered number from smallest to largest" />
+    <MESSAGE value="horoscope finder program homework added" />
+    <MESSAGE value="flight ticket price calculation homework added" />
+    <MESSAGE value="chinese zodiac calculation homework added" />
+    <MESSAGE value="Leap year calculation homework added" />
+    <MESSAGE value="Find even or odd homework added" />
+    <MESSAGE value="Double and multiples of four homework added" />
+    <MESSAGE value="CalculatingPowersOfFourAndFive added" />
+    <MESSAGE value="Combination added" />
+    <MESSAGE value="ExponentialNumber added" />
+    <MESSAGE value="DigitTotal added" />
+    <MESSAGE value="Harmonic added" />
+    <MESSAGE value="Diamond added" />
+    <MESSAGE value="Atm homework added" />
+    <MESSAGE value="EbobEkok homework added" />
+    <MESSAGE value="Palindrome number homework added" />
+    <MESSAGE value="Advanced calculator added" />
+    <MESSAGE value="FindingMinAndMaxValue added" />
+    <MESSAGE value="PerfectNumber added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PerfectNumber added" />
   </component>
 </project>
